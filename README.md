@@ -2,5 +2,4 @@
 <p>
 <img src="https://img.shields.io/static/v1?label=Major&message=Urban planning&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python Stata R&color=yellow"/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/HirezmingD&right_color=red" />
 </p>

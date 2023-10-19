@@ -4,4 +4,4 @@
 <img src="https://img.shields.io/static/v1?label=Program&message=Python Stata R&color=yellow"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HirezmingD&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HirezmingD&theme=dark&layout=compact)

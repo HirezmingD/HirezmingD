@@ -3,3 +3,5 @@
 <img src="https://img.shields.io/static/v1?label=Major&message=Urban planning&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python Stata R&color=yellow"/>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HirezmingD&layout=compact)

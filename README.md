@@ -1,3 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=一名城市规划学子的编程之路;欢迎来到我的代码学习小站)](https://git.io/typing-svg)
+<div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HirezmingD&theme=dark&layout=compact)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:0369a1,100:0ea5e9&text=HEZHOU%20JIANG&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%C3%97%20Land%20Resources%20%C2%B7%20Spatial%20Planning%20%C2%B7%20Ecological%20Governance&descSize=16&descAlignY=58&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&multiline=true&height=80&width=900&lines=Building%20AI%20tools%20for%20land%20valuation%20%26%20real%20estate%20appraisal;%E6%9E%84%E5%BB%BA%E9%9D%A2%E5%90%91%E5%9C%9F%E5%9C%B0%E8%AF%84%E4%BC%B0%E4%B8%8E%E4%B8%8D%E5%8A%A8%E4%BA%A7%E4%BC%B0%E4%BB%B7%E7%9A%84%20AI%20%E5%B7%A5%E5%85%B7;Spatial%20planning%3A%20Three-Zone-Three-Line%20%26%20farmland%20protection;%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E8%A7%84%E5%88%92%EF%BC%9A%E4%B8%89%E5%8C%BA%E4%B8%89%E7%BA%BF%E5%88%92%E5%AE%9A%E4%B8%8E%E8%80%95%E5%9C%B0%E4%BF%9D%E6%8A%A4;Ecological%20restoration%20%C2%B7%20Environmental%20consulting%20%C2%B7%20Rural%20revitalization;%E7%94%9F%E6%80%81%E4%BF%AE%E5%A4%8D%20%C2%B7%20%E7%8E%AF%E5%A2%83%E5%92%A8%E8%AF%A2%20%C2%B7%20%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4;Turning%20geospatial%20data%20into%20governance%20intelligence;%E5%B0%86%E5%9C%B0%E7%90%86%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E8%BD%AC%E5%8C%96%E4%B8%BA%E5%85%AC%E5%85%B1%E6%B2%BB%E7%90%86%E6%99%BA%E6%85%A7)](https://git.io/typing-svg)
+
+</div>

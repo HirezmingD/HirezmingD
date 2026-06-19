@@ -7,7 +7,7 @@
 > \*AI × 国土资源管理 × 空间规划与公共治理\*  
 > 浙江大学 博士研究生
 
-\---
+---
 
 ### 🎓 个人简介
 
@@ -21,7 +21,7 @@
 🏫 浙江大学紫金港校区安中大楼
 ```
 
-\---
+---
 
 ### 🔬 研究方向
 
@@ -32,7 +32,12 @@
 * **生态环境与咨询服务** — 生态修复、环境咨询、土地整治、生态保护
 * **GeoAI 与空间建模** — 可解释机器学习、InVEST、PLUS、空间计量在生态系统服务与碳动态中的应用
 
-\---
+### 🛠️ 技术栈
+
+`Python` `R` `GeoPandas` `QGIS` `ArcGIS` `InVEST` `Google Earth Engine`  
+`XGBoost` `Random Forest` `SHAP` `空间计量` `PLUS` `MOP`
+
+---
 
 ### 📝 代表性论文
 
@@ -44,11 +49,3 @@
 * 李咏华\*, 丁安琪, **江和洲**, 姚松, 冉秦川, 王华荣, 高欣芸, 黄杉\*. *区域视角下碳平衡压力与创新能力脱钩状态分异：以长三角核心城市群为例.* **环境科学**, 2025.
 * Li Y., Yao S., **Jiang H.**, Wang H., Ran Q., Gao X., Ding X., Ge D.\* *Spatial-temporal evolution and prediction of carbon storage: An integrated framework based on MOP–PLUS–InVEST model and an applied case study in Hangzhou, East China.* **Land**, 2022. (IF 3.9)
 * 李咏华\*, 何哲慧, 姚松, **江和洲**, 宋菊芳\*. *基于InVEST-OPGD-RF框架的浙江省县域生态系统服务供需时空演变及驱动力分析.* **环境科学**, 2025.
-
-\---
-
-### 🛠️ 技术栈
-
-`Python` `R` `GeoPandas` `QGIS` `ArcGIS` `InVEST` `Google Earth Engine`  
-`XGBoost` `Random Forest` `SHAP` `空间计量` `PLUS` `MOP`
-

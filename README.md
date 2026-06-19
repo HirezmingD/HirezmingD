@@ -7,7 +7,7 @@
 > \*AI × Land Resource Management × Spatial Planning \& Public Governance\*  
 > PhD Student @ Zhejiang University
 
-\---
+---
 
 ### 🎓 About Me
 
@@ -21,7 +21,7 @@ Before returning to academia, I spent four years as a practicing urban planner a
 🏫 College of Civil Engineering \& Architecture, ZJU Zijingang Campus
 ```
 
-\---
+---
 
 ### 🔬 Research Interests
 
@@ -32,7 +32,12 @@ Before returning to academia, I spent four years as a practicing urban planner a
 * **Ecosystem \& Environmental Consulting** — Ecological restoration, environmental advisory, land remediation, ecological protection
 * **GeoAI \& Spatial Modeling** — Interpretable ML, InVEST, PLUS, spatial econometrics for ecosystem services and carbon dynamics
 
-\---
+### 🛠️ Tech Stack
+
+`Python` `R` `GeoPandas` `QGIS` `ArcGIS` `InVEST` `Google Earth Engine`  
+`XGBoost` `Random Forest` `SHAP` `Spatial Econometrics` `PLUS` `MOP`
+
+---
 
 ### 📝 Publications
 
@@ -44,11 +49,3 @@ Before returning to academia, I spent four years as a practicing urban planner a
 * Li Y.\*, Ding A., **Jiang H.**, Yao S., Ran Q., Wang H., Gao X., Huang S.\* *Divergence of decoupling state of carbon balance pressure and innovation capability under regional perspective: Taking core city cluster of Yangtze River Delta as an example.* **Environmental Science**, 2025.
 * Li Y., Yao S., **Jiang H.**, Wang H., Ran Q., Gao X., Ding X., Ge D.\* *Spatial-temporal evolution and prediction of carbon storage: An integrated framework based on MOP–PLUS–InVEST model and an applied case study in Hangzhou, East China.* **Land**, 2022. (IF 3.9)
 * Li Y.\*, He Z., Yao S., **Jiang H.**, Song J.\* *Spatio-temporal evolution and driving force analysis of ecosystem service supply-demand in Zhejiang Province based on InVEST-OPGD-RF framework.* **Environmental Science**, 2025.
-
-\---
-
-### 🛠️ Tech Stack
-
-`Python` `R` `GeoPandas` `QGIS` `ArcGIS` `InVEST` `Google Earth Engine`  
-`XGBoost` `Random Forest` `SHAP` `Spatial Econometrics` `PLUS` `MOP`
-

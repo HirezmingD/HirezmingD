@@ -40,7 +40,7 @@ Before returning to academia, I spent four years as a practicing urban planner a
 ### 📝 Publications
 
 * **Jiang H.**, Li Y.\*, Lin Z., Ma Q., Yao S., Ran Q., Wang H., Ding A. *Quantifying amenity impact on housing equity: Analysis of cost-benefit dynamics of urban green and grey infrastructure in residential area regeneration.* **Habitat International**, 170, 103730, 2026.
-* Li Y., \*\*Jiang H.\*\*¹, Zhang B., Yao S., Gao X., Zhang J.\*, Hua C.\* *Comparative evaluation of multi-scale spatiotemporal variability and drivers of carbon storage: An empirical study from 369 cities, China.* **Ecological Indicators**, 154, 110568, 2023. (IF 6.9)
+* Li Y., \*\*Jiang H.\*\*, Zhang B., Yao S., Gao X., Zhang J.\*, Hua C.\* *Comparative evaluation of multi-scale spatiotemporal variability and drivers of carbon storage: An empirical study from 369 cities, China.* **Ecological Indicators**, 154, 110568, 2023. (IF 6.9)
 * Li Y.\*, **Jiang H.**, Yao S. *Carbon inequality patterns and carbon quota allocation in the Yangtze River Delta urban agglomeration.* **Acta Geographica Sinica**, 81(1), 2026.
 * Li Y.\*, Ran Q.\*, **Jiang H.**, Yao S. *Environmental drivers of CVD DALYs: 20-year macro-level evidence from China's administrative data.* **International Journal of Health Geographics**, 25:1, 2025.
 * Yao S., Li Y.\*, **Jiang H.**, Wang X., Ran Q., Ding X., Wang H., Ding A. *Predicting land use changes under SSP-RCP scenarios to support sustainable planning in high-density urban areas: A case study of Hangzhou, Southeastern China.* **Buildings**, 2024.

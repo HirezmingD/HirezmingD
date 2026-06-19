@@ -13,7 +13,7 @@
 
 浙江大学建筑工程学院区域与城市规划系博士研究生。研究方向聚焦于将人工智能与机器学习方法融入国土资源管理、空间规划与公共治理领域，构建数据驱动的国土空间智能决策工具。
 
-攻读博士前，曾在厦门、杭州两家甲级规划设计院从事规划设计工作四年。这段实践经历塑造了我的研究理念：模型必须经得起真实世界的检验。
+攻读博士前，曾在厦门、杭州两家甲级规划设计院从事规划设计工作四年。这段实践经历塑造了我的研究理念：*AI for Urban planning* 必须经得起真实世界的检验。
 
 ```
 📍 浙江杭州
@@ -34,8 +34,8 @@
 
 ### 🛠️ 技术栈
 
-`Python` `R` `GeoPandas` `QGIS` `ArcGIS` `InVEST` `Google Earth Engine`  
-`XGBoost` `Random Forest` `SHAP` `空间计量` `PLUS` `MOP`
+`Python` `Java` `R` `Stata` `Openclaw` `Hermes` `ArcGIS` `QGIS` `InVEST` `Google Earth Engine`  
+`Machine learning` `Deep learning` `Spatial Econometrics` `Cellular Automata` `Multi-objective optimization`
 
 ---
 

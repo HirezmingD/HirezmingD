@@ -13,7 +13,7 @@
 
 I'm a PhD candidate in Urban Planning at **Zhejiang University**. My research focuses on integrating AI/ML methods into land resource management, spatial planning, and public governance — building data-driven tools for smarter, more sustainable territorial decisions.
 
-Before returning to academia, I spent four years as a practicing urban planner at two Grade-A design institutes (Xiamen \& Hangzhou, China). That experience grounds my research: I care about models that actually work in the real world.
+Before returning to academia, I spent four years as a practicing urban planner at two Grade-A design institutes (Xiamen \& Hangzhou, China). That experience grounds my research: I care about *AI for Urban planning* that actually work in the real world.
 
 ```
 📍 Hangzhou, China
@@ -34,8 +34,8 @@ Before returning to academia, I spent four years as a practicing urban planner a
 
 ### 🛠️ Tech Stack
 
-`Python` `R` `GeoPandas` `QGIS` `ArcGIS` `InVEST` `Google Earth Engine`  
-`XGBoost` `Random Forest` `SHAP` `Spatial Econometrics` `PLUS` `MOP`
+`Python` `Java` `R` `Stata` `Openclaw` `Hermes` `ArcGIS` `QGIS` `InVEST` `Google Earth Engine`  
+`Machine learning` `Deep learning` `Spatial Econometrics` `Cellular Automata` `Multi-objective optimization`
 
 ---
 

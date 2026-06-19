@@ -4,12 +4,10 @@
 
 # Hezhou Jiang (江和洲)
 
+### 🎓 About Me
+
 > \*AI × Land Resource Management × Spatial Planning \& Public Governance\*  
 > PhD Student @ Zhejiang University
-
----
-
-### 🎓 About Me
 
 I'm a PhD candidate in Urban Planning at **Zhejiang University**. My research focuses on integrating AI/ML methods into land resource management, spatial planning, and public governance — building data-driven tools for smarter, more sustainable territorial decisions.
 
